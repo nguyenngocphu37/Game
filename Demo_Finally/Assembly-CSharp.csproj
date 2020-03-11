@@ -64,7 +64,6 @@
     <Compile Include="Assets\Scripts\Board.cs" />
     <Compile Include="Assets\Scripts\Constant.cs" />
     <Compile Include="Assets\Scripts\SuperBall.cs" />
-    <Compile Include="Assets\Scripts\test GIT.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/ACE/Documents/Dream Blast/Game/Demo_Finally/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
