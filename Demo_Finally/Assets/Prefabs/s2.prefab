@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 58612963849391076}
   - component: {fileID: 114020975672009390}
   - component: {fileID: 50846590952388768}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: s2
   m_TagString: sbY
   m_Icon: {fileID: 0}
@@ -140,11 +140,11 @@ MonoBehaviour:
     type: 3}
   superBall_Cricle_XY: {fileID: 5940079955884534709, guid: 64401bed53df5cc45aa251621aaafd70,
     type: 3}
-  superBall_Thunder: {fileID: 4555129401156388167, guid: 5d4899a843fe1e841b66e9f8ada347f7,
-    type: 3}
   superBall_Bum_Small: {fileID: 1439329619413978178, guid: df14cc11fff07d54d97029b07e3a60cb,
     type: 3}
   superBall_Bum_Big: {fileID: 7895937473671941428, guid: 796b96c91b229864c82feea6086ae253,
+    type: 3}
+  superBall_Thunder: {fileID: 4555129401156388167, guid: 5d4899a843fe1e841b66e9f8ada347f7,
     type: 3}
 --- !u!50 &50846590952388768
 Rigidbody2D:

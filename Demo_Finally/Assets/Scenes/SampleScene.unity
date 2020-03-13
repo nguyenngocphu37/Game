@@ -385,14 +385,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pooledObjects: []
+  superBalls: []
   objectsToPool:
   - {fileID: 326594349226287529, guid: 5a5a5a01a01eaa74bac7d0a75a647ec6, type: 3}
   - {fileID: 3522651726635049691, guid: 65f4c5b72a2071b4f9049da0520d684a, type: 3}
   - {fileID: 4881363498759996699, guid: 300aa964cf5e15145a18d659a98ee16a, type: 3}
   - {fileID: 3379760457714832630, guid: 6cbf198973af24f4d96ba64527a13290, type: 3}
   - {fileID: 1155030083647937863, guid: 35768248992ba5c4796bb0506ba2039e, type: 3}
-  amountToPool: 200
-  tempSuperBall: {fileID: 0}
+  amountToPool: 150
 --- !u!1 &2018762811
 GameObject:
   m_ObjectHideFlags: 0

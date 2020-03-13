@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 58045217777628274}
   - component: {fileID: 50727481349193152}
   - component: {fileID: 114321833847304514}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: s7
   m_TagString: sbCricleXY
   m_Icon: {fileID: 0}
@@ -161,9 +161,9 @@ MonoBehaviour:
   superBall_Cricle_Y: {fileID: 6012890122587857134, guid: 5afd9b9a74f05fd4db7e29958beeeeb8,
     type: 3}
   superBall_Cricle_XY: {fileID: 5940079955884534709}
-  superBall_Thunder: {fileID: 4555129401156388167, guid: 5d4899a843fe1e841b66e9f8ada347f7,
+  superBall_Bum_Small: {fileID: 4555129401156388167, guid: 5d4899a843fe1e841b66e9f8ada347f7,
     type: 3}
-  superBall_Bum_Small: {fileID: 1439329619413978178, guid: df14cc11fff07d54d97029b07e3a60cb,
+  superBall_Bum_Big: {fileID: 1439329619413978178, guid: df14cc11fff07d54d97029b07e3a60cb,
     type: 3}
-  superBall_Bum_Big: {fileID: 7895937473671941428, guid: 796b96c91b229864c82feea6086ae253,
+  superBall_Thunder: {fileID: 7895937473671941428, guid: 796b96c91b229864c82feea6086ae253,
     type: 3}

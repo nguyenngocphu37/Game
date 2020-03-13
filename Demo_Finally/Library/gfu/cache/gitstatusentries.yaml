@@ -1,0 +1,2958 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-03-11T13:31:31.449+07:00
+  initializedAtString: 2020-03-11T10:56:29.717+07:00
+  entries:
+  - path: Demo_Finally\.vs\Demo_Finally\v15\.suo
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\.vs\Demo_Finally\v15\.suo
+    projectPath: .vs\Demo_Finally\v15\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\.vs\Demo_Finally\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\.vs\Demo_Finally\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\Demo_Finally\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\.vs\Demo_Finally\v15\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\.vs\Demo_Finally\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\Demo_Finally\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Assets\Prefabs\s1.prefab
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Prefabs\s1.prefab
+    projectPath: Assets\Prefabs\s1.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Assets\Prefabs\s10.prefab
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Prefabs\s10.prefab
+    projectPath: Assets\Prefabs\s10.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Assets\Prefabs\s2.prefab
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Prefabs\s2.prefab
+    projectPath: Assets\Prefabs\s2.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Assets\Prefabs\s3.prefab
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Prefabs\s3.prefab
+    projectPath: Assets\Prefabs\s3.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Assets\Prefabs\s4.prefab
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Prefabs\s4.prefab
+    projectPath: Assets\Prefabs\s4.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Assets\Prefabs\s5.prefab
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Prefabs\s5.prefab
+    projectPath: Assets\Prefabs\s5.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Assets\Prefabs\s6.prefab
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Prefabs\s6.prefab
+    projectPath: Assets\Prefabs\s6.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Assets\Prefabs\s7.prefab
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Prefabs\s7.prefab
+    projectPath: Assets\Prefabs\s7.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Assets\Prefabs\s8.prefab
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Prefabs\s8.prefab
+    projectPath: Assets\Prefabs\s8.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Assets\Prefabs\s9.prefab
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Prefabs\s9.prefab
+    projectPath: Assets\Prefabs\s9.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Assets\Scripts\Ball.cs
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Scripts\Ball.cs
+    projectPath: Assets\Scripts\Ball.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Assets\Scripts\Board.cs
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Scripts\Board.cs
+    projectPath: Assets\Scripts\Board.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Assets\Scripts\SuperBall.cs
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Assets\Scripts\SuperBall.cs
+    projectPath: Assets\Scripts\SuperBall.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Demo_Finally.sln
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Demo_Finally.sln
+    projectPath: Demo_Finally.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\assetDatabase3
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\metadata\00\00000000000000005000000000000000
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\00\00000000000000005000000000000000
+    projectPath: Library\metadata\00\00000000000000005000000000000000
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\03\0315acfbf7fe5724c8e68f75fc2f216c
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\03\0315acfbf7fe5724c8e68f75fc2f216c
+    projectPath: Library\metadata\03\0315acfbf7fe5724c8e68f75fc2f216c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\03\0315acfbf7fe5724c8e68f75fc2f216c.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\03\0315acfbf7fe5724c8e68f75fc2f216c.info
+    projectPath: Library\metadata\03\0315acfbf7fe5724c8e68f75fc2f216c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\06\0621b4aab2236437592f1f292cb81d20
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\06\0621b4aab2236437592f1f292cb81d20
+    projectPath: Library\metadata\06\0621b4aab2236437592f1f292cb81d20
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\06\0621b4aab2236437592f1f292cb81d20.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\06\0621b4aab2236437592f1f292cb81d20.info
+    projectPath: Library\metadata\06\0621b4aab2236437592f1f292cb81d20.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\09\09e28640d754a611467eebfb261ed749
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\09\09e28640d754a611467eebfb261ed749
+    projectPath: Library\metadata\09\09e28640d754a611467eebfb261ed749
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\09\09e28640d754a611467eebfb261ed749.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\09\09e28640d754a611467eebfb261ed749.info
+    projectPath: Library\metadata\09\09e28640d754a611467eebfb261ed749.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\0b\0bb4179eb2c01a943b5cd28812962fe1
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\0b\0bb4179eb2c01a943b5cd28812962fe1
+    projectPath: Library\metadata\0b\0bb4179eb2c01a943b5cd28812962fe1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\metadata\0f\0f2f6da974b85634aa67831c1ebcb0cf
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\0f\0f2f6da974b85634aa67831c1ebcb0cf
+    projectPath: Library\metadata\0f\0f2f6da974b85634aa67831c1ebcb0cf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\15\15be9c691b85a41a39c18beeff87e21b
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\15\15be9c691b85a41a39c18beeff87e21b
+    projectPath: Library\metadata\15\15be9c691b85a41a39c18beeff87e21b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\15\15be9c691b85a41a39c18beeff87e21b.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\15\15be9c691b85a41a39c18beeff87e21b.info
+    projectPath: Library\metadata\15\15be9c691b85a41a39c18beeff87e21b.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\24\240c9a643f41e054c945aebd931b116e
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\24\240c9a643f41e054c945aebd931b116e
+    projectPath: Library\metadata\24\240c9a643f41e054c945aebd931b116e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c
+    projectPath: Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c.info
+    projectPath: Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\53\53532d271e2e130428118fe71d2080a5
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\53\53532d271e2e130428118fe71d2080a5
+    projectPath: Library\metadata\53\53532d271e2e130428118fe71d2080a5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\53\53532d271e2e130428118fe71d2080a5.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\53\53532d271e2e130428118fe71d2080a5.info
+    projectPath: Library\metadata\53\53532d271e2e130428118fe71d2080a5.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\54\54258a1dcd39d6b4ab5ab378e77f9df9
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\54\54258a1dcd39d6b4ab5ab378e77f9df9
+    projectPath: Library\metadata\54\54258a1dcd39d6b4ab5ab378e77f9df9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\54\54258a1dcd39d6b4ab5ab378e77f9df9.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\54\54258a1dcd39d6b4ab5ab378e77f9df9.info
+    projectPath: Library\metadata\54\54258a1dcd39d6b4ab5ab378e77f9df9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\5a\5afd9b9a74f05fd4db7e29958beeeeb8
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\5a\5afd9b9a74f05fd4db7e29958beeeeb8
+    projectPath: Library\metadata\5a\5afd9b9a74f05fd4db7e29958beeeeb8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\metadata\5d\5d4899a843fe1e841b66e9f8ada347f7
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\5d\5d4899a843fe1e841b66e9f8ada347f7
+    projectPath: Library\metadata\5d\5d4899a843fe1e841b66e9f8ada347f7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\64\64401bed53df5cc45aa251621aaafd70
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\64\64401bed53df5cc45aa251621aaafd70
+    projectPath: Library\metadata\64\64401bed53df5cc45aa251621aaafd70
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\6b\6ba572c92614c63478197eda3dc9c537
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\6b\6ba572c92614c63478197eda3dc9c537
+    projectPath: Library\metadata\6b\6ba572c92614c63478197eda3dc9c537
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\6b\6ba572c92614c63478197eda3dc9c537.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\6b\6ba572c92614c63478197eda3dc9c537.info
+    projectPath: Library\metadata\6b\6ba572c92614c63478197eda3dc9c537.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\6c\6c0bc6a6024fbdc4fa1c89a2d221529e
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\6c\6c0bc6a6024fbdc4fa1c89a2d221529e
+    projectPath: Library\metadata\6c\6c0bc6a6024fbdc4fa1c89a2d221529e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\metadata\76\76349cec627454d3a80423a2eeaf0e63
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\76\76349cec627454d3a80423a2eeaf0e63
+    projectPath: Library\metadata\76\76349cec627454d3a80423a2eeaf0e63
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\76\76349cec627454d3a80423a2eeaf0e63.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\76\76349cec627454d3a80423a2eeaf0e63.info
+    projectPath: Library\metadata\76\76349cec627454d3a80423a2eeaf0e63.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\79\796b96c91b229864c82feea6086ae253
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\79\796b96c91b229864c82feea6086ae253
+    projectPath: Library\metadata\79\796b96c91b229864c82feea6086ae253
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\metadata\7a\7a4834cb51f4f2d4b9621fb13452ef4e
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\7a\7a4834cb51f4f2d4b9621fb13452ef4e
+    projectPath: Library\metadata\7a\7a4834cb51f4f2d4b9621fb13452ef4e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\metadata\84\84aec3c9054b3402293139f2c0bc1029
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\84\84aec3c9054b3402293139f2c0bc1029
+    projectPath: Library\metadata\84\84aec3c9054b3402293139f2c0bc1029
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\84\84aec3c9054b3402293139f2c0bc1029.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\84\84aec3c9054b3402293139f2c0bc1029.info
+    projectPath: Library\metadata\84\84aec3c9054b3402293139f2c0bc1029.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\87\877ef3585573ce44eab899298be23158
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\87\877ef3585573ce44eab899298be23158
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\89\89fab4cd104e6734f98ec1c0aff02666
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\89\89fab4cd104e6734f98ec1c0aff02666
+    projectPath: Library\metadata\89\89fab4cd104e6734f98ec1c0aff02666
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\89\89fab4cd104e6734f98ec1c0aff02666.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\89\89fab4cd104e6734f98ec1c0aff02666.info
+    projectPath: Library\metadata\89\89fab4cd104e6734f98ec1c0aff02666.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\98\98e7d2b97a0b72540b40b484e3731c2c
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\98\98e7d2b97a0b72540b40b484e3731c2c
+    projectPath: Library\metadata\98\98e7d2b97a0b72540b40b484e3731c2c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47
+    projectPath: Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47.info
+    projectPath: Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\b8\b81be87ecf411b440a72a845c1938c06
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\b8\b81be87ecf411b440a72a845c1938c06
+    projectPath: Library\metadata\b8\b81be87ecf411b440a72a845c1938c06
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\metadata\bd\bd3c6c2f3e96a5d41837c9e4be68742c
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\bd\bd3c6c2f3e96a5d41837c9e4be68742c
+    projectPath: Library\metadata\bd\bd3c6c2f3e96a5d41837c9e4be68742c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba
+    projectPath: Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba.info
+    projectPath: Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\ce\ce73c174c0e074d44a7ced4a8af0858c
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\ce\ce73c174c0e074d44a7ced4a8af0858c
+    projectPath: Library\metadata\ce\ce73c174c0e074d44a7ced4a8af0858c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\ce\ce73c174c0e074d44a7ced4a8af0858c.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\ce\ce73c174c0e074d44a7ced4a8af0858c.info
+    projectPath: Library\metadata\ce\ce73c174c0e074d44a7ced4a8af0858c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\df\df14cc11fff07d54d97029b07e3a60cb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\df\df14cc11fff07d54d97029b07e3a60cb
+    projectPath: Library\metadata\df\df14cc11fff07d54d97029b07e3a60cb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\metadata\e1\e17d3fa1def6bad4182e2cab763a5dcf
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\e1\e17d3fa1def6bad4182e2cab763a5dcf
+    projectPath: Library\metadata\e1\e17d3fa1def6bad4182e2cab763a5dcf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\e1\e17d3fa1def6bad4182e2cab763a5dcf.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\e1\e17d3fa1def6bad4182e2cab763a5dcf.info
+    projectPath: Library\metadata\e1\e17d3fa1def6bad4182e2cab763a5dcf.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\f3\f39ad1df7e2c42240ba0f4b76bd9a736
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\f3\f39ad1df7e2c42240ba0f4b76bd9a736
+    projectPath: Library\metadata\f3\f39ad1df7e2c42240ba0f4b76bd9a736
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\f3\f39ad1df7e2c42240ba0f4b76bd9a736.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\f3\f39ad1df7e2c42240ba0f4b76bd9a736.info
+    projectPath: Library\metadata\f3\f39ad1df7e2c42240ba0f4b76bd9a736.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\f6\f6f82bca200558a45a5bec47530b5e0e
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\f6\f6f82bca200558a45a5bec47530b5e0e
+    projectPath: Library\metadata\f6\f6f82bca200558a45a5bec47530b5e0e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\f6\f6f82bca200558a45a5bec47530b5e0e.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\f6\f6f82bca200558a45a5bec47530b5e0e.info
+    projectPath: Library\metadata\f6\f6f82bca200558a45a5bec47530b5e0e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\metadata\ff\ffcf44bfe59fb2d41b45619fbb56c025
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\ff\ffcf44bfe59fb2d41b45619fbb56c025
+    projectPath: Library\metadata\ff\ffcf44bfe59fb2d41b45619fbb56c025
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\metadata\ff\ffcf44bfe59fb2d41b45619fbb56c025.info
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\metadata\ff\ffcf44bfe59fb2d41b45619fbb56c025.info
+    projectPath: Library\metadata\ff\ffcf44bfe59fb2d41b45619fbb56c025.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Demo_Finally\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\ScriptMapper
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\StateCache\Hierarchy\af2aee-bd3c6c2f3e96a5d418.json
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\StateCache\Hierarchy\af2aee-bd3c6c2f3e96a5d418.json
+    projectPath: Library\StateCache\Hierarchy\af2aee-bd3c6c2f3e96a5d418.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Library\StateCache\Hierarchy\af2aee-mainStage.json
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\StateCache\Hierarchy\af2aee-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\af2aee-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Library\StateCache\SceneView\8d5ca4-bd3c6c2f3e96a5d418.json
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Library\StateCache\SceneView\8d5ca4-bd3c6c2f3e96a5d418.json
+    projectPath: Library\StateCache\SceneView\8d5ca4-bd3c6c2f3e96a5d418.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\obj\Debug\Assembly-CSharp.csproj.FileListAbsolute.txt
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\obj\Debug\Assembly-CSharp.csproj.FileListAbsolute.txt
+    projectPath: obj\Debug\Assembly-CSharp.csproj.FileListAbsolute.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\obj\Debug\Assembly-CSharp.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\obj\Debug\Assembly-CSharp.dll
+    projectPath: obj\Debug\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\obj\Debug\Assembly-CSharp.pdb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\obj\Debug\Assembly-CSharp.pdb
+    projectPath: obj\Debug\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\ProjectSettings\TagManager.asset
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Demo_Finally\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Assembly-CSharp.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Assembly-CSharp.dll
+    projectPath: Temp\bin\Debug\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Assembly-CSharp.pdb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Assembly-CSharp.pdb
+    projectPath: Temp\bin\Debug\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\ExCSS.Unity.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\ExCSS.Unity.dll
+    projectPath: Temp\bin\Debug\ExCSS.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+    projectPath: Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\mscorlib.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\mscorlib.dll
+    projectPath: Temp\bin\Debug\mscorlib.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\netstandard.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\netstandard.dll
+    projectPath: Temp\bin\Debug\netstandard.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\nunit.framework.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\nunit.framework.dll
+    projectPath: Temp\bin\Debug\nunit.framework.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\nunit.framework.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\nunit.framework.xml
+    projectPath: Temp\bin\Debug\nunit.framework.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.AppContext.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.AppContext.dll
+    projectPath: Temp\bin\Debug\System.AppContext.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Collections.Concurrent.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Collections.Concurrent.dll
+    projectPath: Temp\bin\Debug\System.Collections.Concurrent.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Collections.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Collections.dll
+    projectPath: Temp\bin\Debug\System.Collections.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Collections.NonGeneric.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Collections.NonGeneric.dll
+    projectPath: Temp\bin\Debug\System.Collections.NonGeneric.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Collections.Specialized.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Collections.Specialized.dll
+    projectPath: Temp\bin\Debug\System.Collections.Specialized.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.ComponentModel.Composition.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.ComponentModel.Composition.dll
+    projectPath: Temp\bin\Debug\System.ComponentModel.Composition.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.ComponentModel.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.ComponentModel.dll
+    projectPath: Temp\bin\Debug\System.ComponentModel.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+    projectPath: Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+    projectPath: Temp\bin\Debug\System.ComponentModel.Primitives.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+    projectPath: Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Console.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Console.dll
+    projectPath: Temp\bin\Debug\System.Console.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Core.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Core.dll
+    projectPath: Temp\bin\Debug\System.Core.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Data.Common.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Data.Common.dll
+    projectPath: Temp\bin\Debug\System.Data.Common.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Data.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Data.dll
+    projectPath: Temp\bin\Debug\System.Data.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+    projectPath: Temp\bin\Debug\System.Diagnostics.Contracts.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Diagnostics.Debug.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Diagnostics.Debug.dll
+    projectPath: Temp\bin\Debug\System.Diagnostics.Debug.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+    projectPath: Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Diagnostics.Process.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Diagnostics.Process.dll
+    projectPath: Temp\bin\Debug\System.Diagnostics.Process.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+    projectPath: Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+    projectPath: Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Diagnostics.Tools.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Diagnostics.Tools.dll
+    projectPath: Temp\bin\Debug\System.Diagnostics.Tools.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+    projectPath: Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+    projectPath: Temp\bin\Debug\System.Diagnostics.Tracing.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.dll
+    projectPath: Temp\bin\Debug\System.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Drawing.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Drawing.dll
+    projectPath: Temp\bin\Debug\System.Drawing.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Drawing.Primitives.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Drawing.Primitives.dll
+    projectPath: Temp\bin\Debug\System.Drawing.Primitives.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Dynamic.Runtime.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Dynamic.Runtime.dll
+    projectPath: Temp\bin\Debug\System.Dynamic.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Globalization.Calendars.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Globalization.Calendars.dll
+    projectPath: Temp\bin\Debug\System.Globalization.Calendars.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Globalization.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Globalization.dll
+    projectPath: Temp\bin\Debug\System.Globalization.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Globalization.Extensions.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Globalization.Extensions.dll
+    projectPath: Temp\bin\Debug\System.Globalization.Extensions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.IO.Compression.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.IO.Compression.dll
+    projectPath: Temp\bin\Debug\System.IO.Compression.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+    projectPath: Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+    projectPath: Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.IO.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.IO.dll
+    projectPath: Temp\bin\Debug\System.IO.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.IO.FileSystem.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.IO.FileSystem.dll
+    projectPath: Temp\bin\Debug\System.IO.FileSystem.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+    projectPath: Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+    projectPath: Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+    projectPath: Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+    projectPath: Temp\bin\Debug\System.IO.IsolatedStorage.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+    projectPath: Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.IO.Pipes.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.IO.Pipes.dll
+    projectPath: Temp\bin\Debug\System.IO.Pipes.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+    projectPath: Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Linq.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Linq.dll
+    projectPath: Temp\bin\Debug\System.Linq.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Linq.Expressions.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Linq.Expressions.dll
+    projectPath: Temp\bin\Debug\System.Linq.Expressions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Linq.Parallel.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Linq.Parallel.dll
+    projectPath: Temp\bin\Debug\System.Linq.Parallel.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Linq.Queryable.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Linq.Queryable.dll
+    projectPath: Temp\bin\Debug\System.Linq.Queryable.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Net.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Net.dll
+    projectPath: Temp\bin\Debug\System.Net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Net.Http.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Net.Http.dll
+    projectPath: Temp\bin\Debug\System.Net.Http.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Net.NameResolution.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Net.NameResolution.dll
+    projectPath: Temp\bin\Debug\System.Net.NameResolution.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Net.NetworkInformation.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Net.NetworkInformation.dll
+    projectPath: Temp\bin\Debug\System.Net.NetworkInformation.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Net.Ping.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Net.Ping.dll
+    projectPath: Temp\bin\Debug\System.Net.Ping.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Net.Primitives.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Net.Primitives.dll
+    projectPath: Temp\bin\Debug\System.Net.Primitives.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Net.Requests.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Net.Requests.dll
+    projectPath: Temp\bin\Debug\System.Net.Requests.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Net.Security.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Net.Security.dll
+    projectPath: Temp\bin\Debug\System.Net.Security.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Net.Sockets.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Net.Sockets.dll
+    projectPath: Temp\bin\Debug\System.Net.Sockets.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+    projectPath: Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+    projectPath: Temp\bin\Debug\System.Net.WebSockets.Client.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Net.WebSockets.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Net.WebSockets.dll
+    projectPath: Temp\bin\Debug\System.Net.WebSockets.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Numerics.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Numerics.dll
+    projectPath: Temp\bin\Debug\System.Numerics.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Numerics.Vectors.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Numerics.Vectors.dll
+    projectPath: Temp\bin\Debug\System.Numerics.Vectors.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.ObjectModel.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.ObjectModel.dll
+    projectPath: Temp\bin\Debug\System.ObjectModel.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Reflection.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Reflection.dll
+    projectPath: Temp\bin\Debug\System.Reflection.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Reflection.Extensions.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Reflection.Extensions.dll
+    projectPath: Temp\bin\Debug\System.Reflection.Extensions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Reflection.Primitives.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Reflection.Primitives.dll
+    projectPath: Temp\bin\Debug\System.Reflection.Primitives.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Resources.Reader.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Resources.Reader.dll
+    projectPath: Temp\bin\Debug\System.Resources.Reader.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Resources.ResourceManager.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Resources.ResourceManager.dll
+    projectPath: Temp\bin\Debug\System.Resources.ResourceManager.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Resources.Writer.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Resources.Writer.dll
+    projectPath: Temp\bin\Debug\System.Resources.Writer.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+    projectPath: Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Runtime.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Runtime.dll
+    projectPath: Temp\bin\Debug\System.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Runtime.Extensions.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Runtime.Extensions.dll
+    projectPath: Temp\bin\Debug\System.Runtime.Extensions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Runtime.Handles.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Runtime.Handles.dll
+    projectPath: Temp\bin\Debug\System.Runtime.Handles.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Runtime.InteropServices.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Runtime.InteropServices.dll
+    projectPath: Temp\bin\Debug\System.Runtime.InteropServices.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+    projectPath: Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+    projectPath: Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Runtime.Numerics.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Runtime.Numerics.dll
+    projectPath: Temp\bin\Debug\System.Runtime.Numerics.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Runtime.Serialization.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Runtime.Serialization.dll
+    projectPath: Temp\bin\Debug\System.Runtime.Serialization.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+    projectPath: Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+    projectPath: Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+    projectPath: Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+    projectPath: Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Security.Claims.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Security.Claims.dll
+    projectPath: Temp\bin\Debug\System.Security.Claims.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+    projectPath: Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+    projectPath: Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+    projectPath: Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+    projectPath: Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+    projectPath: Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Security.Principal.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Security.Principal.dll
+    projectPath: Temp\bin\Debug\System.Security.Principal.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Security.SecureString.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Security.SecureString.dll
+    projectPath: Temp\bin\Debug\System.Security.SecureString.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.ServiceModel.Web.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.ServiceModel.Web.dll
+    projectPath: Temp\bin\Debug\System.ServiceModel.Web.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Text.Encoding.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Text.Encoding.dll
+    projectPath: Temp\bin\Debug\System.Text.Encoding.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+    projectPath: Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Text.RegularExpressions.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Text.RegularExpressions.dll
+    projectPath: Temp\bin\Debug\System.Text.RegularExpressions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Threading.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Threading.dll
+    projectPath: Temp\bin\Debug\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Threading.Overlapped.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Threading.Overlapped.dll
+    projectPath: Temp\bin\Debug\System.Threading.Overlapped.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Threading.Tasks.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Threading.Tasks.dll
+    projectPath: Temp\bin\Debug\System.Threading.Tasks.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+    projectPath: Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Threading.Thread.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Threading.Thread.dll
+    projectPath: Temp\bin\Debug\System.Threading.Thread.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Threading.ThreadPool.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Threading.ThreadPool.dll
+    projectPath: Temp\bin\Debug\System.Threading.ThreadPool.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Threading.Timer.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Threading.Timer.dll
+    projectPath: Temp\bin\Debug\System.Threading.Timer.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Transactions.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Transactions.dll
+    projectPath: Temp\bin\Debug\System.Transactions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.ValueTuple.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.ValueTuple.dll
+    projectPath: Temp\bin\Debug\System.ValueTuple.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Web.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Web.dll
+    projectPath: Temp\bin\Debug\System.Web.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Windows.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Windows.dll
+    projectPath: Temp\bin\Debug\System.Windows.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Xml.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Xml.dll
+    projectPath: Temp\bin\Debug\System.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Xml.Linq.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Xml.Linq.dll
+    projectPath: Temp\bin\Debug\System.Xml.Linq.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+    projectPath: Temp\bin\Debug\System.Xml.ReaderWriter.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Xml.Serialization.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Xml.Serialization.dll
+    projectPath: Temp\bin\Debug\System.Xml.Serialization.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Xml.XDocument.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Xml.XDocument.dll
+    projectPath: Temp\bin\Debug\System.Xml.XDocument.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Xml.XmlDocument.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Xml.XmlDocument.dll
+    projectPath: Temp\bin\Debug\System.Xml.XmlDocument.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+    projectPath: Temp\bin\Debug\System.Xml.XmlSerializer.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Xml.XPath.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Xml.XPath.dll
+    projectPath: Temp\bin\Debug\System.Xml.XPath.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+    projectPath: Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+    projectPath: Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+    projectPath: Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.Analytics.Editor.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.Analytics.Editor.dll
+    projectPath: Temp\bin\Debug\Unity.Analytics.Editor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+    projectPath: Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+    projectPath: Temp\bin\Debug\Unity.Analytics.Tracker.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.Cecil.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.Cecil.dll
+    projectPath: Temp\bin\Debug\Unity.Cecil.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+    projectPath: Temp\bin\Debug\Unity.Cecil.Mdb.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+    projectPath: Temp\bin\Debug\Unity.Cecil.Pdb.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.CecilTools.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.CecilTools.dll
+    projectPath: Temp\bin\Debug\Unity.CecilTools.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+    projectPath: Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+    projectPath: Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.DataContract.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.DataContract.dll
+    projectPath: Temp\bin\Debug\Unity.DataContract.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.IvyParser.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.IvyParser.dll
+    projectPath: Temp\bin\Debug\Unity.IvyParser.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+    projectPath: Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.Locator.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.Locator.dll
+    projectPath: Temp\bin\Debug\Unity.Locator.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+    projectPath: Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+    projectPath: Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.SerializationLogic.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.SerializationLogic.dll
+    projectPath: Temp\bin\Debug\Unity.SerializationLogic.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.TextMeshPro.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.TextMeshPro.dll
+    projectPath: Temp\bin\Debug\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+    projectPath: Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+    projectPath: Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.TextMeshPro.pdb
+    projectPath: Temp\bin\Debug\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\Unity.UNetWeaver.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\Unity.UNetWeaver.dll
+    projectPath: Temp\bin\Debug\Unity.UNetWeaver.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEditor.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEditor.dll
+    projectPath: Temp\bin\Debug\UnityEditor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEditor.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEditor.xml
+    projectPath: Temp\bin\Debug\UnityEditor.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.AIModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.AIModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.AIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.AnimationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.AnimationModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.ARModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.ARModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.ARModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.AudioModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.AudioModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.AudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.AudioModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.AudioModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.AudioModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.BaselibModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.ClothModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.ClothModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.ClothModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.CoreModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.CoreModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.CoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.CoreModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.CoreModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.CoreModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.DirectorModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.dll
+    projectPath: Temp\bin\Debug\UnityEngine.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+    projectPath: Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.GridModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.GridModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.GridModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.GridModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.GridModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.GridModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.InputModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.InputModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.InputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.InputModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.InputModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.InputModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.Networking.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.Networking.dll
+    projectPath: Temp\bin\Debug\UnityEngine.Networking.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+    projectPath: Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.StreamingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.TerrainModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.TerrainModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.TestRunner.dll
+    projectPath: Temp\bin\Debug\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.TilemapModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.Timeline.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.Timeline.dll
+    projectPath: Temp\bin\Debug\UnityEngine.Timeline.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.TimelineModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.TLSModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.TLSModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.TLSModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UI.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UI.dll
+    projectPath: Temp\bin\Debug\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UIModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UIModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.UIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.UmbraModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UNETModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UNETModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.UNETModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.VFXModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.VFXModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.VFXModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.VideoModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.VideoModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.VideoModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.VideoModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.VideoModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.VideoModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.VRModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.VRModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.VRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.WindModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.WindModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.WindModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.XRModule.dll
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.XRModule.dll
+    projectPath: Temp\bin\Debug\UnityEngine.XRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\bin\Debug\UnityEngine.XRModule.xml
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\bin\Debug\UnityEngine.XRModule.xml
+    projectPath: Temp\bin\Debug\UnityEngine.XRModule.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityLockfile
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-0c796ebfb15c15a4190961013f66c55e
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-0c796ebfb15c15a4190961013f66c55e
+    projectPath: Temp\UnityTempFile-0c796ebfb15c15a4190961013f66c55e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-1136595ef3c7cd2409673158383ce221
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-1136595ef3c7cd2409673158383ce221
+    projectPath: Temp\UnityTempFile-1136595ef3c7cd2409673158383ce221
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-26d15d05db9475d41b4c75f5a6b49833
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-26d15d05db9475d41b4c75f5a6b49833
+    projectPath: Temp\UnityTempFile-26d15d05db9475d41b4c75f5a6b49833
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-28f1b510f8e41b143bb6956dc2a5e452
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-28f1b510f8e41b143bb6956dc2a5e452
+    projectPath: Temp\UnityTempFile-28f1b510f8e41b143bb6956dc2a5e452
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-2b698ce99cb9eb84199528ee23e12742
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-2b698ce99cb9eb84199528ee23e12742
+    projectPath: Temp\UnityTempFile-2b698ce99cb9eb84199528ee23e12742
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-3376ad251501fec4e85409e5d12468d8
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-3376ad251501fec4e85409e5d12468d8
+    projectPath: Temp\UnityTempFile-3376ad251501fec4e85409e5d12468d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-454dc60d6445fc54295140c9cd3d7ed6
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-454dc60d6445fc54295140c9cd3d7ed6
+    projectPath: Temp\UnityTempFile-454dc60d6445fc54295140c9cd3d7ed6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-4b492a84821036543b01e1fe5b1cd600
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-4b492a84821036543b01e1fe5b1cd600
+    projectPath: Temp\UnityTempFile-4b492a84821036543b01e1fe5b1cd600
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-52695e809985a7c46a104318b19bd734
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-52695e809985a7c46a104318b19bd734
+    projectPath: Temp\UnityTempFile-52695e809985a7c46a104318b19bd734
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-540fc2363ce19584185074a3a2893a3e
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-540fc2363ce19584185074a3a2893a3e
+    projectPath: Temp\UnityTempFile-540fc2363ce19584185074a3a2893a3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-58fec35ecc462c44d936c1e654b94c2e
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-58fec35ecc462c44d936c1e654b94c2e
+    projectPath: Temp\UnityTempFile-58fec35ecc462c44d936c1e654b94c2e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-5e8e795b8e148e949ae65139c9174945
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-5e8e795b8e148e949ae65139c9174945
+    projectPath: Temp\UnityTempFile-5e8e795b8e148e949ae65139c9174945
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-749f812cc5263e84fae799bafedda153
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-749f812cc5263e84fae799bafedda153
+    projectPath: Temp\UnityTempFile-749f812cc5263e84fae799bafedda153
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-798be276e0a05cf4db588f596c603b64
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-798be276e0a05cf4db588f596c603b64
+    projectPath: Temp\UnityTempFile-798be276e0a05cf4db588f596c603b64
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-79bafd8be36ccea4da125fc6f2e3eb05
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-79bafd8be36ccea4da125fc6f2e3eb05
+    projectPath: Temp\UnityTempFile-79bafd8be36ccea4da125fc6f2e3eb05
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-8785a2a52f82100459f7e247c764c0c0
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-8785a2a52f82100459f7e247c764c0c0
+    projectPath: Temp\UnityTempFile-8785a2a52f82100459f7e247c764c0c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-8f79f0e0b946f04468a61ede7d94e24d
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-8f79f0e0b946f04468a61ede7d94e24d
+    projectPath: Temp\UnityTempFile-8f79f0e0b946f04468a61ede7d94e24d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-a4b2b216c1390d74990fc888b87aef6a
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-a4b2b216c1390d74990fc888b87aef6a
+    projectPath: Temp\UnityTempFile-a4b2b216c1390d74990fc888b87aef6a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-adb7b87a529d2f3458c2c232deb6bd44
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-adb7b87a529d2f3458c2c232deb6bd44
+    projectPath: Temp\UnityTempFile-adb7b87a529d2f3458c2c232deb6bd44
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-b9a4e7b65a471eb40be3dd8ecb92a00a
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-b9a4e7b65a471eb40be3dd8ecb92a00a
+    projectPath: Temp\UnityTempFile-b9a4e7b65a471eb40be3dd8ecb92a00a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-d38f65393c83c814297f718c101de6dc
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-d38f65393c83c814297f718c101de6dc
+    projectPath: Temp\UnityTempFile-d38f65393c83c814297f718c101de6dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-faf288e6eed378f49a9c3c4bf0d6d2b8
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-faf288e6eed378f49a9c3c4bf0d6d2b8
+    projectPath: Temp\UnityTempFile-faf288e6eed378f49a9c3c4bf0d6d2b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-fbc7cf0ca6400274f9efc14390085409
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-fbc7cf0ca6400274f9efc14390085409
+    projectPath: Temp\UnityTempFile-fbc7cf0ca6400274f9efc14390085409
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\Temp\UnityTempFile-fdb3f000ad47dd342bf0c2d6838a83ce
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\Temp\UnityTempFile-fdb3f000ad47dd342bf0c2d6838a83ce
+    projectPath: Temp\UnityTempFile-fdb3f000ad47dd342bf0c2d6838a83ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Demo_Finally\UnityPackageManager\manifest.json
+    fullPath: C:\Users\ACE\Documents\Dream Blast\Game\Demo_Finally\UnityPackageManager\manifest.json
+    projectPath: UnityPackageManager\manifest.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5

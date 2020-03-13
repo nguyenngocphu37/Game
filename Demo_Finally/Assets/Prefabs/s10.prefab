@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 58532326359003814}
   - component: {fileID: 114621761190833820}
   - component: {fileID: 50253282786392894}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: s10
   m_TagString: sbThunder
   m_Icon: {fileID: 0}
@@ -141,11 +141,11 @@ MonoBehaviour:
     type: 3}
   superBall_Cricle_XY: {fileID: 5940079955884534709, guid: 64401bed53df5cc45aa251621aaafd70,
     type: 3}
-  superBall_Thunder: {fileID: 4555129401156388167, guid: 5d4899a843fe1e841b66e9f8ada347f7,
+  superBall_Bum_Small: {fileID: 4555129401156388167, guid: 5d4899a843fe1e841b66e9f8ada347f7,
     type: 3}
-  superBall_Bum_Small: {fileID: 1439329619413978178, guid: df14cc11fff07d54d97029b07e3a60cb,
+  superBall_Bum_Big: {fileID: 1439329619413978178, guid: df14cc11fff07d54d97029b07e3a60cb,
     type: 3}
-  superBall_Bum_Big: {fileID: 7895937473671941428}
+  superBall_Thunder: {fileID: 7895937473671941428}
 --- !u!50 &50253282786392894
 Rigidbody2D:
   serializedVersion: 4

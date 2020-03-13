@@ -18,13 +18,20 @@ public class Constant
     public const string TAG_SUPER_BALL_BUM_SMALL = "sbBumSmall";
     public const string TAG_SUPER_BALL_BUM_BIG = "sbBumBig";
 
-    public const float DISTANCE_RADIUS_CHANGE = 1f;
-    public const float DISTANCE_SCALE_CHANGE = 4f;
+    public const string LAYER_BALL = "ball";
+    public const string LAYER_SUPER_BALL = "sball";
 
-    public const float DELAY_TO_INACTIVE = 1f;
+    public const float DISTANCE_RADIUS_CHANGE = 1f;  // bán kính nổ hình tròn
+    public const float DISTANCE_SCALE_CHANGE_X = 1f;   // độ dài nổ
+    public const float DISTANCE_SCALE_CHANGE_Y = 1f;   // độ rộng nổ
 
-    public const float DISTANCE_RAY_POINT = 0.25f;
+    public const float DISTANCE_TOUCH_RADIUS_CHANGE = 0.5f;   // độ rộng để chạm
 
-    public const int AMOUNT_DETROY_THUNDER = 7;
+    public const float DELAY_TO_INACTIVE = 1f; 
+
+    public const float DISTANCE_RAY_POINT = 0.25f; // Khoảng cách để từ tâm đến điểm bắn TIA raycast
+
+    public const int AMOUNT_DESTROY_THUNDER = 40; // số quả bóng xóa khi dùng chức năng sấm sét
 
 }
+

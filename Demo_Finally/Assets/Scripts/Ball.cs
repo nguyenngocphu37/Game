@@ -36,6 +36,8 @@ public class Ball : MonoBehaviour
         tempBall = transform.gameObject;
         InActiveNearBall(transform, radius);
         ActiveSuperBall(countDetroyBall + 1);
+        countDetroyBall = 0;
+        board.ActiveBall();
     }
 
 
@@ -43,38 +45,67 @@ public class Ball : MonoBehaviour
     {
         if (amount == Constant.AMOUNT_BALL_CREATE_SBALL_X)
         {
-            Instantiate(superBall_X, tempBall.transform.position, Quaternion.identity);
+            GameObject obj = Instantiate(superBall_X, tempBall.transform.position, Quaternion.identity);
+            board.superBalls.Add(obj);
         }
         else if (amount == Constant.AMOUNT_BALL_CREATE_SBALL_Y)
         {
-            Instantiate(superBall_Y, tempBall.transform.position, Quaternion.identity);
+            GameObject obj = Instantiate(superBall_Y, tempBall.transform.position, Quaternion.identity);
+            board.superBalls.Add(obj);
         }
         else if (amount == Constant.AMOUNT_BALL_CREATE_SBALL_CRICLE)
         {
-            Instantiate(superBall_Cricle, transform.transform.position, Quaternion.identity);
+            GameObject obj = Instantiate(superBall_Cricle, transform.transform.position, Quaternion.identity);
+            board.superBalls.Add(obj);
         }
         else if (amount >= Constant.AMOUNT_BALL_CREATE_SBALL_THUNDER)
         {
-            Instantiate(superBall_Thunder, transform.transform.position, Quaternion.identity);
+            GameObject obj = Instantiate(superBall_Thunder, transform.transform.position, Quaternion.identity);
+            board.superBalls.Add(obj);
         }
     }
 
     private void InActiveNearBall(Transform tr, float radius)
     {
-        Collider2D[] hitColliders = Physics2D.OverlapCircleAll(tr.position, radius * transform.localScale.x, 1 << LayerMask.NameToLayer("ball"));
+        Collider2D[] hitColliders = Physics2D.OverlapCircleAll(tr.position, radius * transform.localScale.x, 1 << LayerMask.NameToLayer(Constant.LAYER_BALL));
         int i = 0;
         while (i < hitColliders.Length)
         {
             var isActive = hitColliders[i].gameObject.activeInHierarchy;
             if (hitColliders[i].transform.tag == tr.tag && isActive && hitColliders[i].gameObject != tr.gameObject)
             {
-                GameObject nearBall = hitColliders[i].gameObject;
-                tr.gameObject.SetActive(false);
-                nearBall.SetActive(false);
-                InActiveNearBall(nearBall.transform, radius);
-                countDetroyBall++;
+                if (!isSuperBall(hitColliders[i].tag))
+                {
+                    GameObject nearBall = hitColliders[i].gameObject;
+                    tr.gameObject.SetActive(false);
+                    nearBall.SetActive(false);
+                    InActiveNearBall(nearBall.transform, radius);
+                    countDetroyBall++;
+                }
             }
             i++;
+        }
+    }
+
+    private bool isSuperBall(string tag)
+    {
+        if (tag == Constant.TAG_SUPER_BALL_X ||
+            tag == Constant.TAG_SUPER_BALL_Y ||
+            tag == Constant.TAG_SUPER_BALL_XY ||
+            tag == Constant.TAG_SUPER_BALL_BUM_BIG ||
+            tag == Constant.TAG_SUPER_BALL_BUM_SMALL ||
+            tag == Constant.TAG_SUPER_BALL_CRICLE ||
+            tag == Constant.TAG_SUPER_BALL_CRICLE_X ||
+            tag == Constant.TAG_SUPER_BALL_CRICLE_Y ||
+            tag == Constant.TAG_SUPER_BALL_CRICLE_XY ||
+            tag == Constant.TAG_SUPER_BALL_THUNDER
+            )
+        {
+            return true;
+        }
+        else
+        {
+            return false;
         }
     }
 }

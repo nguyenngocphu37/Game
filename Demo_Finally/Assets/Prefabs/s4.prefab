@@ -12,10 +12,9 @@ GameObject:
   - component: {fileID: 7298023235727693584}
   - component: {fileID: 58781501734452006}
   - component: {fileID: 58262722155206234}
-  - component: {fileID: 114679352223602644}
   - component: {fileID: 114304357305440290}
   - component: {fileID: 50884948911320146}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: s4
   m_TagString: sbCricle
   m_Icon: {fileID: 0}
@@ -116,33 +115,6 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 1.5
---- !u!114 &114679352223602644
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3514131196086329431}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a4834cb51f4f2d4b9621fb13452ef4e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  superBall_X: {fileID: 8297045920317676083, guid: bd3c6c2f3e96a5d41837c9e4be68742c,
-    type: 3}
-  superBall_Y: {fileID: 8297045920317676083, guid: bd3c6c2f3e96a5d41837c9e4be68742c,
-    type: 3}
-  superBall_XY: {fileID: 8297045920317676083, guid: bd3c6c2f3e96a5d41837c9e4be68742c,
-    type: 3}
-  superBall_Cricle: {fileID: 8297045920317676083, guid: bd3c6c2f3e96a5d41837c9e4be68742c,
-    type: 3}
-  superBall_Cricle_X: {fileID: 8297045920317676083, guid: bd3c6c2f3e96a5d41837c9e4be68742c,
-    type: 3}
-  superBall_Cricle_Y: {fileID: 0}
-  superBall_Cricle_XY: {fileID: 0}
-  superBall_Thunder: {fileID: 0}
-  superBall_Bum_Small: {fileID: 0}
-  superBall_Bum_Big: {fileID: 0}
 --- !u!114 &114304357305440290
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -168,11 +140,11 @@ MonoBehaviour:
     type: 3}
   superBall_Cricle_XY: {fileID: 5940079955884534709, guid: 64401bed53df5cc45aa251621aaafd70,
     type: 3}
-  superBall_Thunder: {fileID: 4555129401156388167, guid: 5d4899a843fe1e841b66e9f8ada347f7,
+  superBall_Bum_Small: {fileID: 4555129401156388167, guid: 5d4899a843fe1e841b66e9f8ada347f7,
     type: 3}
-  superBall_Bum_Small: {fileID: 1439329619413978178, guid: df14cc11fff07d54d97029b07e3a60cb,
+  superBall_Bum_Big: {fileID: 1439329619413978178, guid: df14cc11fff07d54d97029b07e3a60cb,
     type: 3}
-  superBall_Bum_Big: {fileID: 7895937473671941428, guid: 796b96c91b229864c82feea6086ae253,
+  superBall_Thunder: {fileID: 7895937473671941428, guid: 796b96c91b229864c82feea6086ae253,
     type: 3}
 --- !u!50 &50884948911320146
 Rigidbody2D:
